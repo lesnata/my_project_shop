@@ -2,7 +2,7 @@
 This is my pet project built with Flask while taking Python programming course in Cursor.
 Shop project has the concept of online store, where API helps you to: 
 - Create a user (Admin/Customer); 
-- Admin is able to stores; 
+- Admin is able to add stores; 
 - Admin is ables to create products;
 - Admin can specify product stock volume;
 - Customer can search for a product in the database;
