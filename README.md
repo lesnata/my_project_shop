@@ -37,4 +37,7 @@ TODO: Write credits
 
 ## License
 
+<<<<<<< HEAD
+TODO: Write license
+=======
 TODO: Write license
